@@ -41,7 +41,6 @@
 :root[tabsintitlebar] #titlebar .titlebar-buttonbox-container,
 :root[tabsintitlebar] #titlebar-buttonbox-container,
 :root[tabsintitlebar][inFullscreen] #window-controls {
-	-moz-appearance: none !important;
 	padding: 0 3px 0 4px;
 	position: absolute !important;
 	right: 8px;
