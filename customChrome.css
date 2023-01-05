@@ -1,15 +1,6 @@
 @namespace xul url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 
-:root{
-	--gnome-inactive-urlbar-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
-  	--gnome-focused-urlbar-border-color: #dddddd;
-    --gnome-tabbar-tab-color: #363636;
-}
-
-@namespace xul "http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul";
-
-    /* Buttons Issues/Glitches fixes */
-@namespace xul "http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul";
+e   /* Buttons Issues/Glitches fixes */
 
 /* Overrides: Make the back button the same as other buttons */
 :root:not([uidensity=compact]) #back-button {
